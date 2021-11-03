@@ -7,7 +7,7 @@ public class Main {
                 Character.toString(0x1F608) +
                 Character.toString(0x1F634));
         String str="7.3";
-        String text = "2.34"; // example String
+        String text = "2.35"; // example String
         System.out.println(Double.parseDouble(str)+Double.parseDouble(text));
     }
 }
